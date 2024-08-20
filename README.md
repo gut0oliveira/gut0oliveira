@@ -6,11 +6,11 @@
 </div>
 
 
-![Snake animation](https://github.com/manuelbsfilho/manuelbsfilho/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gut0oliveira/gut0oliveira/blob/output/github-contribution-grid-snake.svg)
 
 
 
-<p align = "left">
+<p align = "center">
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=gut0oliveira&theme=radical&hide_border=falso" width = 400>
 
