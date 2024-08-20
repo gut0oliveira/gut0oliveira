@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Augusto Oliveira✋🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-os/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.instagram.com/augusto__olv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](augusto010oliveira@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto__olv)
 
 ![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=dracula)
@@ -13,7 +13,7 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-</div>
+</div><br/>
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=gut0oliveira&theme=radical&hide_border=falso" width = 400>
