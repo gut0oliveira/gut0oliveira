@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](augusto010oliveira@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/augusto__olv)
 
-![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=dracula)
+![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=transparent)
 
 ### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact)
