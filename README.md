@@ -18,4 +18,4 @@
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </div><br/>
 
-![Snake animation](https://github.com/gut0oliveira/gut0oliveira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gut0oliveira/gut0oliveira/blob/output/github-contribution-grid-snake.svg)
