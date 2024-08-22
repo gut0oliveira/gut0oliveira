@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Augusto Oliveira✋🏻
-<div align="left">
+<div>
     <a href="https://github.com/gut0oliveira">
     <a href="https://www.linkedin.com/in/augusto-os/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:augusto010oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -7,9 +7,9 @@
 </div><br/>
 
 <div align="center">
-    <a href="https://github.com/gut0oliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/gut0oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Tecnologias
