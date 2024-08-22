@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/augusto__olv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br/>
 
-<div align="center">
+<div style="flex" align="center">
   <a href="https://github.com/gut0oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=dark"/>
