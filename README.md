@@ -7,7 +7,6 @@
 </div><br/>
 
 <div style="flex" align="center">
-  <a href="https://github.com/gut0oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple"/>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
