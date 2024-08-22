@@ -8,11 +8,11 @@
 
 <div align="center">
     <a href="https://github.com/gut0oliveira">
-    <img width ="480em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple"/>
-    <img width ="480em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-### Tecnologia
+### Tecnologias
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
