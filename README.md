@@ -19,3 +19,7 @@
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </div>
+
+<div>
+    ![snake animation](https://github.com/gut0oliveira/gut0oliveira/blob/output/github-contribution-grid-snake2.svg)
+</div>
