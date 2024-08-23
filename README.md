@@ -1,15 +1,20 @@
 <h1 align="center">Olá! Eu sou o Augusto Oliveira✋🏻</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black" />
+
+## About me
+
+<div></div>
+
+## Experience
+
+<div></div>    
+
 <div>
     <a href="https://github.com/gut0oliveira">
     <a href="https://www.linkedin.com/in/augusto-os/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:augusto010oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/augusto__olv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br/>
-
-<div style="flex" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
 ## Languages & Tools
 <div style="display: inline_block">
@@ -21,9 +26,9 @@
 </div>
 
 ## My Journey
-<div align="center">
+<div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple">
-  <img width="385px" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&theme=midnight-purple" />
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&theme=midnight-purple" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=gut0oliveira&theme=solarized-light" >
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=gut0oliveira&theme=midnight-purple" />
 </div>
