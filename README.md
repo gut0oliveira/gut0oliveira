@@ -29,7 +29,7 @@
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&theme=midnight-purple" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=gut0oliveira&bg_color=141414&color=cac9cf&line=3d24bc&point=ffffff&area=true&hide_border=true" >
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=gut0oliveira&bg_color=141414&color=cac9cf&line=2b00ff&point=ffffff&area=true&hide_border=false" >
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=gut0oliveira&theme=midnight-purple" />
 </div>
 
