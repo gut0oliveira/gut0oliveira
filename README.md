@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Augusto Oliveira✋🏻</h1>
+<h1 align="center">Hello! I'm Augusto Oliveira✋🏻</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black"  />
 
 ## About me
