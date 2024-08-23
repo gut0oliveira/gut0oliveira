@@ -25,7 +25,7 @@
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </div>
 
-## My Journey
+## My Stats
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&theme=midnight-purple" />
