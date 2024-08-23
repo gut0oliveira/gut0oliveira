@@ -1,4 +1,4 @@
-### Olá! Eu sou o Augusto Oliveira✋🏻
+<h1 align="center">Olá! Eu sou o Augusto Oliveira✋🏻</h1>
 <div>
     <a href="https://github.com/gut0oliveira">
     <a href="https://www.linkedin.com/in/augusto-os/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -11,7 +11,7 @@
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-### Tecnologias
+## Languages & Tools
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -20,4 +20,15 @@
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </div>
 
+## My Journey
+<div align="center">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple">
+  <img width="385px" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&theme=midnight-purple" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=gut0oliveira&theme=solarized-light" >
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=gut0oliveira&theme=midnight-purple" />
+</div>
+
 ![Snake animation](https://raw.githubusercontent.com/gut0oliveira/gut0oliveira/output/github-contribution-grid-snake-dark.svg)
+
+## My Rewards
+[![trophy](https://github-profile-trophy.vercel.app/?username=gut0oliveira&column=10)](https://github.com/ryo-ma/github-profile-trophy)
