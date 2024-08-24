@@ -17,13 +17,26 @@
 </div><br/>
 
 ## Languages & Tools
-<div style="display: inline_block">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+## Languages and Tools:
+<div align="left">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
+  <img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
+  <img width="12" />
+  <code><img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /></code>
+  <img width="12" />
+    <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+  <img width="12" />
+    <code><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /></code>
+  <img width="12" />
+    <code><img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  /></code>
+  <img width="12" />
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="python logo"  /></code>
+  <img width="12" />
 </div>
+
 
 ## My Stats
 <div align="center">
