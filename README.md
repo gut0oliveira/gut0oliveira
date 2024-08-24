@@ -17,15 +17,14 @@
 </div><br/>
 
 ## Languages & Tools
-## Languages and Tools:
 <div align="left">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
   <img width="14" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="14" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
+    <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
   <img width="14" />
-  <code><img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /></code>
+    <code><img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /></code>
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
   <img width="14" />
@@ -36,7 +35,6 @@
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="python logo"  /></code>
   <img width="14" />
 </div>
-
 
 ## My Stats
 <div align="center">
