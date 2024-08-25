@@ -30,6 +30,10 @@
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /></code>
   <img width="14" />
+    <code><img src="https://skillicons.dev/icons?i=cs" height="30" alt="c logo"  /></code>
+  <img width="14" />
+    <code><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="c logo"  /></code>
+  <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  /></code>
   <img width="14" />
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="python logo"  /></code>
