@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/gut0oliveira/gut0oliveira/master/intro.gif" alt="👋 Hi there! I'm (Augusto Oliveira|https://github.com/gut0oliveira)" title="👋 Hi there! I'm (Augusto Oliveira|https://github.com/gut0oliveira)"/>](https://github.com/gut0oliveira)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=f3f6f4&center=true&width=1000&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black"  />
 
