@@ -1,24 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IMB+Plex+Mono&size=25&duration=3000&pause=100&color=F7E6F5&center=true&width=1000&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3000&pause=100&color=F7E6F5&center=true&width=800&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black"  />
 
-## :book: About me
-- 🖥 Software Developer & Data Scientist About me
+## 📖 About me
+- 🖥 Software Developer & Data Scientist
 - 🎓 Bachelor's degree in Science Computer 𝚊𝚝 𝚝𝚑𝚎  University Center of Brasilia - UniCEUB, graduating July 2025
-- In 2024 I obtained a Professional Certification in Data Science from IBM. Access here: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
-  
+- 🌟 In 2024 I obtained a Professional Certification in Data Science from IBM. Access here: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
 
-src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
-
-
-## Experience
-
-<div>
-
-</div>  
-
-### 𝙰𝚋𝚘𝚞𝚝 𝙼e
-<div>
+## 📬 How to reach me:
+  You can reach me at the email in my github profile. Follow my socials!
+  <div>
     <a href="https://github.com/gut0oliveira">
     <a href="https://www.linkedin.com/in/augusto-os/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:augusto010oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
