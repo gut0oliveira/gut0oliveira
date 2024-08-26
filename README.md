@@ -54,6 +54,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/gut0oliveira/gut0oliveira/output/github-contribution-grid-snake-dark.svg)
 
-## Rewards
+## 🏆 Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=gut0oliveira&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
