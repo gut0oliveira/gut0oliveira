@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/augusto__olv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br/>
 
-## Languages & Tools
+## 🖥️ Languages & Tools
 <div align="left">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
   <img width="14" />
