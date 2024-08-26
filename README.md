@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3000&pause=100&color=F7E6F5&center=true&width=1000&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IMB+Plex+Mono&size=25&duration=3000&pause=100&color=F7E6F5&center=true&width=1000&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black"  />
 
 ## :book: About me
-- 🖥 Software Developer & Data Scientist
+- 🖥 Software Developer & Data Scientist About me
 - 🎓 Bachelor's degree in Science Computer 𝚊𝚝 𝚝𝚑𝚎  University Center of Brasilia - UniCEUB, graduating July 2025
 - In 2024 I obtained a Professional Certification in Data Science from IBM. Access here: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
   
