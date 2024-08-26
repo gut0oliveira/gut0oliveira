@@ -1,4 +1,5 @@
-<h1 align="center">Hello! I'm Augusto Oliveira✋🏻</h1>
+[<img src="https://raw.githubusercontent.com/gut0oliveira/gut0oliveira/master/intro.gif" alt="👋 Hi there! I'm (Augusto Oliveira|https://github.com/gut0oliveira)" title="👋 Hi there! I'm (Augusto Oliveira|https://github.com/gut0oliveira)"/>](https://github.com/gut0oliveira)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black"  />
 
 ## About me
@@ -7,8 +8,11 @@
 
 ## Experience
 
-<div></div>    
+<div>
 
+</div>  
+
+### How to reach me
 <div>
     <a href="https://github.com/gut0oliveira">
     <a href="https://www.linkedin.com/in/augusto-os/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
