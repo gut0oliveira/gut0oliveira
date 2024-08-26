@@ -20,7 +20,7 @@
 <div align="left">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
   <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="django logo"  /></code>
+    <code><img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  /></code>
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /></code>
   <img width="14" />
@@ -28,13 +28,15 @@
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  /></code>
   <img width="14" />
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="python logo"  /></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  /></code>
+  <img width="14" />
+    <code><img src="https://skillicons.dev/icons?i=anaconda" height="30" alt="anaconda logo"  /></code>
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /></code>
   <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=cs" height="30" alt="c logo"  /></code>
+    <code><img src="https://skillicons.dev/icons?i=cs" height="30" alt="c# logo"  /></code>
   <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="c logo"  /></code>
+    <code><img src="https://skillicons.dev/icons?i=cpp" height="30" alt="c++ logo"  /></code>
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
   <img width="14" />
