@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3000&pause=100&color=F7E6F5&center=true&width=800&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=3500&pause=200&color=F7E6F5&center=true&width=800&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black"  />
 
