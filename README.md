@@ -19,7 +19,7 @@ To view each one, access the repository by clicking on its name:
 
 - [🤖 Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Contains all ML projects where predictions and model creation were made with evaluation of model accuracy and their application in the real world
 
-- [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Contains all projects that involve all necessary steps, that is, an algorithm capable of making predictions about an indicator.
+- [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Contains all projects that involve all the steps involved, that is, an algorithm capable of making predictions about an indicator.
 
 
 ## 📬 How to reach me:
