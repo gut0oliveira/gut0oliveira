@@ -57,6 +57,8 @@ To view each one, access the repository by clicking on its name:
   <img width="14" />
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="14" />
+    <code><img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  /></code>
+  <img width="14" />
 </div>
 
 ## 📈 Metrics
