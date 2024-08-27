@@ -9,7 +9,7 @@
 
 ## 🚀Projects
 
-The projects on my GitHub profile are divided into the following repositories: Data Analysis - Insights, Machine Learning (ML), Data Engineering and Data Science.
+The projects on my GitHub profile are divided into the following repositories: Data Analysis - Insights, Data Engineering, Machine Learning (ML) and Data Science.
 
 To view each one, access the repository by clicking on its name:
 
