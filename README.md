@@ -7,6 +7,21 @@
 - 🎓 Bachelor's degree in Science Computer 𝚊𝚝 𝚝𝚑𝚎  University Center of Brasilia - UniCEUB, graduating July 2025
 - 🌟 In 2024 I obtained a Professional Certification in Data Science from IBM. Access here: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
 
+## 🚀Projects
+
+The projects on my GitHub profile are divided into the following repositories: Data Analysis - Insights, Machine Learning (ML), Data Engineering and Data Science.
+
+To view each one, access the repository by clicking on its name:
+
+- [📊 Data Analysis - Insights:](https://github.com/gut0oliveira/Data-Analysis-Insights) Contains all Data Analysis projects that show valuable insights through exploratory data analysis (EDA)
+
+- [🌐 Data Engineering:](https://github.com/gut0oliveira/Data-Engineering) Contains all projects where WebScraping, Pipeline creation and API Requests were done
+
+- [🤖 Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Contains all ML projects where predictions and model creation were made with evaluation of model accuracy and their application in the real world
+
+- [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Contains all projects that involve all necessary steps, that is, an algorithm capable of making predictions about an indicator.
+
+
 ## 📬 How to reach me:
   You can reach me at the email in my github profile. Follow my socials!
   <div>
