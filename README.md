@@ -13,13 +13,13 @@ The projects on my GitHub profile are divided into the following repositories: D
 
 To view each one, access the repository by clicking on its name:
 
-- [📊 Data Analysis - Insights:](https://github.com/gut0oliveira/Data-Analysis-Insights) Contains all Data Analysis projects that show valuable insights through exploratory data analysis (EDA)
+- [📊 Data Analysis - Insights:](https://github.com/gut0oliveira/Data-Analysis-Insights) Data Analysis projects that show valuable insights through exploratory data analysis (EDA)
 
-- [🌐 Data Engineering:](https://github.com/gut0oliveira/Data-Engineering) Contains all projects where WebScraping, Pipeline creation and API Requests were done
+- [🌐 Data Engineering:](https://github.com/gut0oliveira/Data-Engineering) Projects where I performed data extraction using Web Scraping, created pipelines and made API requests.
 
-- [🤖 Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Contains all ML projects where predictions and model creation were made with evaluation of model accuracy and their application in the real world
+- [🤖 Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Machine Learning projects where predictions and model creation were made with evaluation of model accuracy and their application in the real world
 
-- [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Contains all projects that involve all the steps involved, that is, an algorithm capable of making predictions about an indicator.
+- [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Projects that involve all the steps involved, that is, an algorithm capable of making predictions about an indicator.
 
 
 ## 📬 How to reach me:
