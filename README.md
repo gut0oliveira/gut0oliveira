@@ -13,7 +13,7 @@ The projects on my GitHub profile are divided into the following repositories: D
 
 To view each one, access the repository by clicking on its name:
 
-- [![📊 Data Analysis - Insights:](https://github.com/gut0oliveira/Data-Analysis-Insights)](https://github.com/gut0oliveira/Data-Analysis-Insights) Contains all Data Analysis projects that show valuable insights through exploratory data analysis (EDA)
+- [📊 Data Analysis - Insights:](https://github.com/gut0oliveira/Data-Analysis-Insights) Contains all Data Analysis projects that show valuable insights through exploratory data analysis (EDA)
 
 - [🌐 Data Engineering:](https://github.com/gut0oliveira/Data-Engineering) Contains all projects where WebScraping, Pipeline creation and API Requests were done
 
