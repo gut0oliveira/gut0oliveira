@@ -4,7 +4,7 @@
 
 ## 📖 About me
 - 🖥 Software Developer & Data Scientist
-- 🎓 Bachelor's degree in Science Computer at the  University Center of Brasilia - UniCEUB, graduating July 2025
+- 🎓 Bachelor's degree in Computer Science at the  University Center of Brasilia - UniCEUB, graduating July 2025
 - 🌟 In 2024 I obtained a Professional Certification in Data Science from IBM. Access here: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
 
 ## 🚀Projects
