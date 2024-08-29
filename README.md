@@ -9,11 +9,11 @@
 
 ## 🚀Projects
 
-The projects on my GitHub profile are divided into the following repositories: Data Analysis - Insights, Data Engineering, Machine Learning (ML) and Data Science.
+The projects on my GitHub profile are divided into the following repositories: Data Analysis, Data Engineering, Machine Learning (ML) and Data Science.
 
 To view each one, access the repository by clicking on its name:
 
-- [📊 Data Analysis - Insights:](https://github.com/gut0oliveira/Data-Analysis-Insights) Data Analysis projects that show valuable insights through Exploratory Data Analysis (EDA)
+- [📊 Data Analysis:](https://github.com/gut0oliveira/Data-Analysis-Insights) Data Analysis projects that show valuable insights through Exploratory Data Analysis (EDA)
 
 - [🌐 Data Engineering:](https://github.com/gut0oliveira/Data-Engineering) Projects where I performed data extraction using Web Scraping, created pipelines and made API requests.
 
