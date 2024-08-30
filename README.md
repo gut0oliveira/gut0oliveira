@@ -41,8 +41,6 @@ To view each one, access the repository by clicking on its name:
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
   <img width="14" />
-    <code><img src="https://skillicons.dev/icons?i=r" height="30" alt="r logo"  /></code>
-  <img width="14" />
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  /></code>
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=anaconda" height="30" alt="anaconda logo"  /></code>
