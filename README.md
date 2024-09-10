@@ -21,7 +21,6 @@ To view each one, access the repository by clicking on its name:
 
 - [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Projects that involve all the steps involved, that is, an algorithm capable of making predictions about an indicator.
 
-
 ## 📬 How to reach me:
   You can reach me at the email in my github profile. Follow my socials!
   <div>
