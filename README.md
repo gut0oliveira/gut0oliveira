@@ -17,8 +17,6 @@ To view each one, access the repository by clicking on its name:
 
 - [🌐 Data Engineering:](https://github.com/gut0oliveira/Data-Engineering) Projects where I performed data extraction using Web Scraping, created pipelines and made API requests.
 
-- [🤖 Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Machine Learning projects where predictions and model creation were made with evaluation of model accuracy and their application in the real world
-
 - [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Projects that involve all the steps involved, that is, an algorithm capable of making predictions about an indicator.
 
 ## 📬 How to reach me:
