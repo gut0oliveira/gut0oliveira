@@ -15,7 +15,7 @@ To view each one, access the repository by clicking on its name:
 
 - [📊 Data Analysis:](https://github.com/gut0oliveira/Data-Analysis-Insights) Data Analysis projects that show valuable insights through Exploratory Data Analysis (EDA)
 
-- [🌐 Data Engineering:](https://github.com/gut0oliveira/Data-Engineering) Projects where I performed data extraction using Web Scraping, created pipelines and made API requests.
+- [🌐 Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Project where I created machine learning algorithms for predictions and research
 
 - [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Projects that involve all the steps involved, that is, an algorithm capable of making predictions about an indicator.
 
