@@ -1,34 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=200&color=F7E6F5&center=true&width=800&lines=Hello!+I'm+Augusto+Oliveira!+👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=200&color=F5F0F0&center=true&width=800&lines=Olá!+Me+chamo+Augusto+Oliveira!)](https://git.io/typing-svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black" />
 
-## 📖 About me
-- 🖥 Software Developer & Data Scientist
-- 🎓 Bachelor's degree in Computer Science at the  University Center of Brasilia - UniCEUB, graduated July 2025
-- 🌟 In 2024 I obtained a Professional Certificate in Data Science from IBM. Access here: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
+## Sobre mim
+- Cientista de Dados e Analista de Dados
+- Bacharel em Ciência da Computação pelo Centro Universitário de Brasília - UniCEUB, graduação em Julho/25
+- Em 2024 eu realizei uma Certificação Profissional em Ciência de Dados pela IBM. Acesse aqui: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
 
-## 🚀Projects
+## Projetos
 
-The projects on my GitHub profile are divided into the following repositories: Data Analysis, Data Engineering, Machine Learning (ML) and Data Science.
+Meu projetos estão divididos conforme os repositórios abaixo: Análise de Dados, Machine Learning (ML), Ciência de Dados e TCC da Graduação (UniCEUB)
 
-To view each one, access the repository by clicking on its name:
+Para acessá-los, acesse o repositório clicando em seu nome:
 
-- [📊 Data Analysis:](https://github.com/gut0oliveira/Data-Analysis-Insights) Data Analysis projects that show valuable insights through Exploratory Data Analysis (EDA)
+- [Análise de Dados:](https://github.com/gut0oliveira/Data-Analysis-Insights) Projetos de análise de dados que demonstram insights valiosos por meio da Análise Exploratória de Dados (EDA)
 
-- [🌐 Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Project where I created machine learning algorithms for predictions and research
+- [Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Projetos no qual criei algoritmos de aprendizado de máquina para previsões e pesquisa
 
-- [🌎 Data Science:](https://github.com/gut0oliveira/Data-Science) Projects that involve all the steps involved, that is, an algorithm capable of making predictions about an indicator.
+- [Ciência de Dados:](https://github.com/gut0oliveira/Data-Science) Projetos que envolvem todas as etapas relacionadas ao tratamento, análise e trabalho com os dados, ou seja, algoritmos preditivos sobre um indicador específico
 
-## 📬 How to reach me:
-  You can reach me at the email in my github profile. Follow my socials!
+- [TCC - UniCEUB:](https://github.com/gut0oliveira/Data-Science) Trabalho de Conclusão de Curso desenvolvido ao final da Graduação em Ciência da Computação (2021-2025)
+
+## Contato
+  Me encontre pelo email no meu perfil do GitHub e me siga nas redes!
   <div>
     <a href="https://github.com/gut0oliveira">
     <a href="https://www.linkedin.com/in/augusto-oS/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:augusto010oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/augusto__olv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <!-- <a href="https://www.instagram.com/augusto__olv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 </div><br/>
 
-## 🖥️ Languages & Tools
+## Linguagens e Ferramentas
 <div align="left">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
   <img width="14" />
@@ -56,7 +58,7 @@ To view each one, access the repository by clicking on its name:
   <img width="14" />
 </div>
 
-## 📈 Metrics
+## Métricas
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&theme=midnight-purple" />
