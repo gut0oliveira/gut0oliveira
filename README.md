@@ -19,7 +19,7 @@ Para acessá-los, acesse o repositório clicando em seu nome:
 
 - [Ciência de Dados:](https://github.com/gut0oliveira/Data-Science) Projetos que envolvem todas as etapas relacionadas ao tratamento, análise e trabalho com os dados, ou seja, algoritmos preditivos sobre um indicador específico
 
-- [TCC - UniCEUB:](https://github.com/gut0oliveira/Data-Science) Trabalho de Conclusão de Curso desenvolvido ao final da Graduação em Ciência da Computação (2021-2025)
+- [TCC - UniCEUB:](https://github.com/gut0oliveira/Data-Science-Capstone) Trabalho de Conclusão de Curso desenvolvido ao final da Graduação em Ciência da Computação (2021-2025)
 
 ## Contato
   Me encontre pelo email no meu perfil do GitHub e me siga nas redes!
