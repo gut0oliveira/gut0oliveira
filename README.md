@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=200&color=F5F0F0&center=true&width=800&lines=Augusto+Oliveira!)](https://git.io/typing-svg)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black" />
-
 ## Sobre mim
 Analista de Dados
 Bacharel em Ciência da Computação — UniCEUB
@@ -54,14 +52,6 @@ Me encontre pelo email no meu perfil do GitHub e me siga nas redes!
   <img width="14" />
     <code><img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  /></code>
   <img width="14" />
-</div>
-
-## Métricas
-<div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=gut0oliveira&show_icons=true&theme=midnight-purple">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gut0oliveira&layout=compact&theme=midnight-purple" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=gut0oliveira&bg_color=141414&color=cac9cf&line=2b00ff&point=ffffff&area=true&hide_border=false" >
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=gut0oliveira&theme=midnight-purple" />
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/gut0oliveira/gut0oliveira/output/github-contribution-grid-snake-dark.svg)
