@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=200&color=F5F0F0&center=true&width=800&lines=Olá!+Me+chamo+Augusto+Oliveira!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=200&color=F5F0F0&center=true&width=800&lines=Augusto+Oliveira!)](https://git.io/typing-svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gut0oliveira.gut0oliveira&left_color=royalblue&right_color=black" />
 
 ## Sobre mim
-- Cientista de Dados e Analista de Dados
-- Bacharel em Ciência da Computação pelo Centro Universitário de Brasília - UniCEUB, graduação em Julho/25
-- Em 2024 eu realizei uma Certificação Profissional em Ciência de Dados pela IBM. Acesse aqui: [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
+Analista de Dados
+Bacharel em Ciência da Computação — UniCEUB
+IBM Data Science Professional Certificate [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
 
 ## Projetos
 
@@ -13,7 +13,7 @@ Meu projetos estão divididos conforme os repositórios abaixo: Análise de Dado
 
 Para acessá-los, acesse o repositório clicando em seu nome:
 
-- [Análise de Dados:](https://github.com/gut0oliveira/Data-Analysis-Insights) Projetos de análise de dados que demonstram insights valiosos por meio da Análise Exploratória de Dados (EDA)
+- [Análise de Dados:](https://github.com/gut0oliveira/Data-Analysis) Projetos de análise de dados que demonstram insights valiosos por meio da Análise Exploratória de Dados (EDA)
 
 - [Machine Learning:](https://github.com/gut0oliveira/Machine-Learning) Projetos no qual criei algoritmos de aprendizado de máquina para previsões e pesquisa
 
@@ -22,12 +22,10 @@ Para acessá-los, acesse o repositório clicando em seu nome:
 - [TCC - UniCEUB:](https://github.com/gut0oliveira/Data-Science-Capstone) Trabalho de Conclusão de Curso desenvolvido ao final da Graduação em Ciência da Computação (2021-2025)
 
 ## Contato
-  Me encontre pelo email no meu perfil do GitHub e me siga nas redes!
+Me encontre pelo email no meu perfil do GitHub e me siga nas redes!
   <div>
     <a href="https://github.com/gut0oliveira">
     <a href="https://www.linkedin.com/in/augusto-oS/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:augusto010oliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <!-- <a href="https://www.instagram.com/augusto__olv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 </div><br/>
 
 ## Linguagens e Ferramentas
