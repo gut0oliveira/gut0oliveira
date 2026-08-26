@@ -23,23 +23,35 @@ Aqui estão alguns dos repositórios que reúnem meus projetos nas áreas de An�
 - **[Detecção de Ataques Cibernéticos com Machine Learning](https://github.com/gut0oliveira/Data-Science-Capstone)**  
   Projeto de Data Science aplicado à identificação de tráfego de rede malicioso utilizando modelos de classificação binária e multiclasse, desenvolvido como Trabalho de Conclusão de Curso em Ciência da Computação.
 
-## Linguagens e Ferramentas
+## Tecnologias
 
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" /></code>
-  <img width="10" />
+  <img width="8" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas" /></code>
+  <img width="8" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="NumPy" /></code>
+  <img width="8" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="32" alt="Scikit-learn" /></code>
+  <img width="8" />
   <code><img src="https://skillicons.dev/icons?i=pytorch" height="32" alt="PyTorch" /></code>
-  <img width="10" />
-  <code><img src="https://skillicons.dev/icons?i=django" height="32" alt="Django" /></code>
-  <img width="10" />
-  <code><img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" /></code>
-  <img width="10" />
+  <img width="8" />
+  <code><img src="https://skillicons.dev/icons?i=postgres" height="32" alt="PostgreSQL" /></code>
+  <img width="8" />
+  <code><img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker" /></code>
+  <img width="8" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" /></code>
-  <img width="10" />
+  <img width="8" />
   <code><img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" /></code>
-  <img width="10" />
+  <img width="8" />
   <code><img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" /></code>
 </div>
+
+<br>
+
+**Data & Machine Learning:** Python · SQL · Pandas · NumPy · Scikit-learn · XGBoost · PyTorch  
+**Data Engineering & BI:** PostgreSQL · Power BI · Apache Airflow · ETL · Data Pipelines  
+**Ferramentas:** Docker · Jupyter · FastAPI · Git · GitHub
 
 ## Contato
 
