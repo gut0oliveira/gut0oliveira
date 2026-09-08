@@ -1,9 +1,8 @@
-<div align="center">
+<h1 align="center">Augusto Oliveira</h1>
 
-# Augusto Oliveira
-### Analista de Dados
-
-</div>
+<p align="center">
+  <b>Analista de Dados</b> · Brasília, DF<br>
+</p>
 
 ## Sobre mim
 
