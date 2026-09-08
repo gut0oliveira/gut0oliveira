@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3500&pause=200&color=F5F0F0&center=true&width=800&lines=Augusto+Oliveira;Data+Analyst+%7C+Data+Scientist)](https://git.io/typing-svg)
+<div align="center">
+
+## Augusto Oliveira
+
+Analista de Dados
+
+</div>
 
 ## Sobre mim
 
