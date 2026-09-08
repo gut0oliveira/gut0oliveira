@@ -1,8 +1,7 @@
 <div align="center">
 
-## Augusto Oliveira
-
-Analista de Dados
+# Augusto Oliveira
+### Analista de Dados
 
 </div>
 
@@ -60,12 +59,15 @@ Aqui estão alguns dos repositórios que reúnem meus projetos nas áreas de An�
 **Ferramentas:** Docker · Jupyter · FastAPI · Git · GitHub
 
 ## Contato
+<a href="https://www.linkedin.com/in/augusto-oS/">
+  <img
+    align="left"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/augusto-oS/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+</br>
 
 ## Contribuições
 
