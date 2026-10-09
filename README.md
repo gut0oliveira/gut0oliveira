@@ -20,17 +20,17 @@ Sou bacharel em Ciência da Computação pelo UniCEUB e atuo com análise, trata
 
 ### Ciência de Dados
 
-#### [SpaceX Falcon 9 Landing Prediction](https://github.com/gut0oliveira/spacex-falcon9-landing-prediction)
-
-Projeto de ponta a ponta com coleta via API e web scraping, tratamento de dados, SQL, análise exploratória, mapas, dashboard e comparação de modelos para prever o pouso do primeiro estágio do Falcon 9.
-
-`Python` `Pandas` `SQL` `Beautiful Soup` `Folium` `Plotly Dash` `scikit-learn`
-
 #### [Network Intrusion Detection with Machine Learning](https://github.com/gut0oliveira/network-intrusion-detection-ml)
 
 Trabalho de Conclusão de Curso voltado à classificação binária e multiclasse de tráfego de rede. A revisão técnica organiza o treinamento em pipelines, evita vazamento de dados e estabelece um contrato validado entre os notebooks e a aplicação Streamlit.
 
 `Python` `Pandas` `scikit-learn` `XGBoost` `Streamlit` `Jupyter`
+
+#### [SpaceX Falcon 9 Landing Prediction](https://github.com/gut0oliveira/spacex-falcon9-landing-prediction)
+
+Projeto de ponta a ponta com coleta via API e web scraping, tratamento de dados, SQL, análise exploratória, mapas, dashboard e comparação de modelos para prever o pouso do primeiro estágio do Falcon 9.
+
+`Python` `Pandas` `SQL` `Beautiful Soup` `Folium` `Plotly Dash` `scikit-learn`
 
 ### Machine Learning
 
